@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+pandas
+numpy
+sdv
+sdmetrics
+presidio-analyzer
+presidio-anonymizer
+spacy
